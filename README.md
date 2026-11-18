@@ -1,7 +1,9 @@
-# Apocalypdos: between the lines
+# Apocalypdos
 
-A mythic-setting brainstorm page: the sky ring of fifteen gods, the turning disc world, and a draft layer of story lines (Public / Trusted / Gods-only tiers, Review and Export).
+A mythic land where the fate of the world hangs in the balance.. every other week.
 
 Live page: https://thegraingerzone.github.io/apocalypdos/
 
-Everything is a single self-contained `index.html` (images embedded; only the Cinzel font loads from Google Fonts). Draft lines are brainstorm material, not canon.
+The sky ring of fifteen gods, the turning disc world, the gods and their holy months, and the lore of the world in three layers (Public, Trusted, Gods-only).
+
+Everything is a single self-contained `index.html` (images embedded; only the Cinzel font loads from Google Fonts).
